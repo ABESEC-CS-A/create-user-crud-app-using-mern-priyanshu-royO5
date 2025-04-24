@@ -1,0 +1,30 @@
+h1{
+  font-weight: 700;
+  /* background-color: aqua; */
+  font-size: 2.3rem;
+  padding: 1rem;
+  margin: 10px;
+}
+input{
+  width: 100%;
+  border-radius: 50px;
+}
+.container{
+  text-align: left !important;
+}
+
+button{
+  min-width: 100px;
+}
+
+.editcss{
+  display: flex;
+  /* padding: 0; */
+  gap: 10px;
+}
+
+.centreElement{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
